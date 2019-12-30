@@ -15,6 +15,6 @@ The game is not mobile responsive,just focused on building it.
 
 images taken from google and sounds taken from free sound providers 
 
--> www.bensound.com | soundbible.com | www.orangefreesounds.com
+-> www.bensound.com | www.soundbible.com | www.orangefreesounds.com
 
 The base of the game, is taken from https://github.com/LearnTeachCode/Battleship-JavaScript/
