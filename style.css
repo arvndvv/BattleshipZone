@@ -325,3 +325,15 @@ h2::after {
   border-bottom:20px solid #0f9ff3;
   margin-left: 0;
 }
+
+@media only screen and (max-width: 600px) {
+  #gameboard {
+    position: absolute;
+    margin: 0 auto 2em auto;
+    width: 350px;
+    height: 350px;
+    margin: 0 auto;
+    left: 35%;
+    top: 15%;
+  }
+}
